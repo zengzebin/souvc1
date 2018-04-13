@@ -1,0 +1,14 @@
+[INFO ] 2018-04-09 09:40:57,855     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[ERROR] 2018-04-09 11:42:22,160      com.souvc.weixin.util.CommonUtil     - 用户null已取消关注
+ onsole.layout.ConversionPattern=[ERROR] 用户null已取消关注
+[ERROR] 2018-04-09 15:16:00,613      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40027 errmsg:invalid sub button url size hint: [XaibhA0162vr30]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40027 errmsg:invalid sub button url size hint: [XaibhA0162vr30]
+[INFO ] 2018-04-09 15:16:00,614     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40027
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40027
+[ERROR] 2018-04-09 15:16:26,449      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40027 errmsg:invalid sub button url size hint: [jUkVtA0187vr22]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40027 errmsg:invalid sub button url size hint: [jUkVtA0187vr22]
+[INFO ] 2018-04-09 15:16:26,450     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40027
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40027
+[INFO ] 2018-04-09 15:16:53,810     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！

@@ -1,0 +1,62 @@
+[INFO ] 2018-04-08 15:24:39,634     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[ERROR] 2018-04-08 15:44:25,233      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [1WwP30465vr24]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [1WwP30465vr24]
+[INFO ] 2018-04-08 15:44:25,234     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40026
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40026
+[ERROR] 2018-04-08 15:44:48,262      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [toPpQa0488vr28]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [toPpQa0488vr28]
+[INFO ] 2018-04-08 15:44:48,265     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40026
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40026
+[ERROR] 2018-04-08 15:45:38,585      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [mJmo0a0538vr26]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [mJmo0a0538vr26]
+[INFO ] 2018-04-08 15:45:38,588     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40026
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40026
+[ERROR] 2018-04-08 15:46:46,266      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [SHfGda0606vr26]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [SHfGda0606vr26]
+[INFO ] 2018-04-08 15:46:46,269     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40026
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40026
+[ERROR] 2018-04-08 15:47:04,845      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [.HqxQa0625vr32]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [.HqxQa0625vr32]
+[INFO ] 2018-04-08 15:47:07,251     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40026
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40026
+[ERROR] 2018-04-08 15:51:44,360      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [NaRR90904vr30]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [NaRR90904vr30]
+[INFO ] 2018-04-08 15:51:44,364     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40026
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40026
+[ERROR] 2018-04-08 15:53:25,775      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [ZYe0006vr20]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [ZYe0006vr20]
+[INFO ] 2018-04-08 15:53:25,779     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40026
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40026
+[INFO ] 2018-04-08 15:53:37,582     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[ERROR] 2018-04-08 15:53:52,591      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [U6Msba0032vr27]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [U6Msba0032vr27]
+[INFO ] 2018-04-08 15:53:52,594     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40026
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40026
+[INFO ] 2018-04-08 16:00:57,101     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[ERROR] 2018-04-08 16:01:30,171      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40016 errmsg:invalid button size hint: [OJkZ6a0490vr27]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40016 errmsg:invalid button size hint: [OJkZ6a0490vr27]
+[INFO ] 2018-04-08 16:01:30,175     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40016
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40016
+[INFO ] 2018-04-08 16:01:37,959     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2018-04-08 16:03:38,820     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2018-04-08 16:03:57,699     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2018-04-08 16:05:27,420     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[ERROR] 2018-04-08 16:06:21,083      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40016 errmsg:invalid button size hint: [VruXKa0781vr26]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40016 errmsg:invalid button size hint: [VruXKa0781vr26]
+[INFO ] 2018-04-08 16:06:21,086     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40016
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40016
+[INFO ] 2018-04-08 16:06:48,362     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2018-04-08 16:07:08,149     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2018-04-08 16:07:26,445     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2018-04-08 16:07:47,428     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！

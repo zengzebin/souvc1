@@ -1,0 +1,14 @@
+[ERROR] 2017-01-11 15:48:27,972      com.souvc.weixin.util.CommonUtil     - 用户null已取消关注
+ onsole.layout.ConversionPattern=[ERROR] 用户null已取消关注
+[INFO ] 2017-01-11 19:05:16,147     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2017-01-11 19:05:18,178     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2017-01-12 15:36:16,029     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2017-01-12 15:39:19,790     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2017-01-12 16:03:35,731     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2017-01-12 16:45:06,316     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！

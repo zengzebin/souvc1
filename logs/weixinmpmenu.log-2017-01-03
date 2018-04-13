@@ -1,0 +1,8 @@
+[ERROR] 2017-01-03 14:33:32,627      com.souvc.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [0jEskA0201vr21]
+ onsole.layout.ConversionPattern=[ERROR] 创建菜单失败 errcode:40026 errmsg:invalid sub button key size hint: [0jEskA0201vr21]
+[INFO ] 2017-01-03 14:33:32,629     com.souvc.weixin.main.MenuManager     - 菜单创建失败，错误码：40026
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建失败，错误码：40026
+[INFO ] 2017-01-03 14:35:56,703     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[ERROR] 2017-01-03 17:56:58,426      com.souvc.weixin.util.CommonUtil     - 用户null已取消关注
+ onsole.layout.ConversionPattern=[ERROR] 用户null已取消关注

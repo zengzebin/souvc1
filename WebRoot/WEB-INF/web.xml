@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xmlns="http://java.sun.com/xml/ns/javaee" 
+		xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" 
+		id="WebApp_ID" 
+		version="3.0">
+  <display-name>souvc1</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+	<servlet>
+	<!-- 微信请求接收 -->
+		      <servlet-name>coreServlet</servlet-name>
+	      <servlet-class>
+	          com.souvc.weixin.servlet.CoreServlet
+	      </servlet-class>
+	</servlet>
+    <servlet>
+	      <servlet-name>OAuthServlet</servlet-name>
+	      <servlet-class>
+	          com.souvc.weixin.servlet.OAuthServlet
+	      </servlet-class>
+	</servlet>
+	
+	
+	
+	<servlet>
+	      <servlet-name>Test</servlet-name>
+	      <servlet-class>
+	         com.souvc.weixin.service.Test
+	      </servlet-class>
+	</servlet>
+
+	  <!--  url-pattern中配置的/coreServlet用于指定该Servlet的访问路径  -->
+	
+	<servlet-mapping>
+	     <servlet-name>coreServlet</servlet-name>
+	     <url-pattern>/coreServlet</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+	     <servlet-name>Test</servlet-name>
+	     <url-pattern>/test</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+	     <servlet-name>OAuthServlet</servlet-name>
+	     <url-pattern>/oAuthServlet</url-pattern>
+	</servlet-mapping>
+	
+    <servlet>    
+       <servlet-name>initServlet</servlet-name>    
+       <servlet-class>    
+           com.souvc.weixin.servlet.InitServlet  
+       </servlet-class>    
+	<!--配置获取access_token所需参数appid和appsecret     -->
+       <init-param>    
+           <param-name>appid</param-name>    
+           <param-value>wx1220bd5d26516ec1</param-value>    
+       </init-param>    
+       <init-param>    
+           <param-name>appsecret</param-name>    
+           <param-value>46cd020be3ad67d853e8dd2301cf2a1c</param-value>    
+       </init-param>    
+       <load-on-startup>0</load-on-startup>    
+    </servlet>     
+
+</web-app>

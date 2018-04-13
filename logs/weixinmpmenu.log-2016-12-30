@@ -1,0 +1,14 @@
+[ERROR] 2016-12-30 11:47:34,751      com.souvc.weixin.util.CommonUtil     - 获取token失败 errcode:40013 errmsg:invalid appid hint: [PsDi0645e578]
+ onsole.layout.ConversionPattern=[ERROR] 获取token失败 errcode:40013 errmsg:invalid appid hint: [PsDi0645e578]
+[ERROR] 2016-12-30 11:51:06,501      com.souvc.weixin.util.CommonUtil     - 获取token失败 errcode:40013 errmsg:invalid appid hint: [tJ0857e514]
+ onsole.layout.ConversionPattern=[ERROR] 获取token失败 errcode:40013 errmsg:invalid appid hint: [tJ0857e514]
+[ERROR] 2016-12-30 11:51:58,884      com.souvc.weixin.util.CommonUtil     - 获取token失败 errcode:40013 errmsg:invalid appid hint: [oAT8QA0909e575]
+ onsole.layout.ConversionPattern=[ERROR] 获取token失败 errcode:40013 errmsg:invalid appid hint: [oAT8QA0909e575]
+[ERROR] 2016-12-30 11:54:28,387      com.souvc.weixin.util.CommonUtil     - 获取token失败 errcode:40013 errmsg:invalid appid hint: [Yp53UA0059e514]
+ onsole.layout.ConversionPattern=[ERROR] 获取token失败 errcode:40013 errmsg:invalid appid hint: [Yp53UA0059e514]
+[INFO ] 2016-12-30 13:50:46,631     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2016-12-30 15:45:40,760     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
+[INFO ] 2016-12-30 16:15:18,917     com.souvc.weixin.main.MenuManager     - 菜单创建成功！
+ onsole.layout.ConversionPattern=[INFO ] 菜单创建成功！
